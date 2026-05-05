@@ -1,0 +1,197 @@
+
+
+KAHVALTI
+
+  * Serpme Kahvaltı -- ₺1000
+    Ezine Peyniri, Eski Kaşar, Hellim Peyniri, İzmir Tulum Peyniri, Dil Peyniri, Reçel, Bal, Kaymak, Çikolata, Fındık Ezmesi, Siyah Zeytin, Yeşil Zeytin, Roka, Biber, Çeri Domates, Salatalık, Patates Kızartması, Sigara Böreği, Sosis, Menemen, Sahanda Yumurta.
+    Sınırsız çay (2 kişilik).
+  * Kahvaltı Tabağı -- ₺375
+    Ezine Peyniri, Eski Kaşar, Hellim Peyniri, İzmir Tulum Peyniri, Dil Peyniri, Reçel, Bal, Kaymak, Çikolata, Fındık Ezmesi, Siyah Zeytin, Yeşil Zeytin, Roka, Biber, Çeri Domates, Salatalık, Rafadan Yumurta
+  * Sıcak Kahvaltı Tabağı -- ₺420
+    Ezine Peyniri, Eski Kaşar, Hellim Peyniri, İzmir Tulum Peyniri, Dil Peyniri, Reçel, Bal, Kaymak, Çikolata, Fındık Ezmesi, Siyah Zeytin, Yeşil Zeytin, Roka, Biber, Çeri Domates, Salatalık, Patates Kızartması, Sigara Böreği, Sosis, Göz Yumurta.
+  * Menemen -- ₺210
+  * Omlet -- ₺165
+    çeri domates , salatalık ile servis edilir
+  * Göz Yumurta -- ₺165
+
+TOST
+
+  * Kavurmalı Kaşarlı Tost -- ₺330
+    Patates Kızartması, Çeri Domates, Salatalık, Zeytin ile servis edilir.
+  * Beyaz Peynirli Domatesli Tost -- ₺215
+    Patates Kızartması, Çeri Domates, Salatalık, Zeytin ile servis edilir.
+  * Karışık Tost -- ₺240
+    Patates Kızartması, Çeri Domates, Salatalık, Zeytin ile servis edilir.
+  * Kaşarlı Tost -- ₺215
+    Patates Kızartması, Çeri Domates, Salatalık, Zeytin ile servis edilir.
+
+APERATİFLER
+
+  * Süzme Mercimek Çorbası -- ₺110
+  * Çıtır Tavuk -- ₺280
+  * Patates Tava -- ₺110
+  * Karışık Aperatif Tabağı -- ₺320
+    patates kızartması, sosis, soğan halkası, nugget, sigara böreği
+  * Sigara Böreği -- ₺130
+    5 adet sigara böreği, çeri domates, salatalık ile servis edilir.
+  * Soğan Halkası -- ₺100
+    8 adet
+  * Sosis Tava -- ₺165
+    patates kızartması ile servis edilir
+
+KEBAP & IZGARA
+
+  * Adana Kebap -- ₺445
+    Zırhla çekilmiş 180 gr kıyma, domates, biber, soğan, bulgur pilavı ve lavaş eşliğinde servis edilir.
+  * Urfa Kebap -- ₺445
+    Zırhla çekilmiş 180 gr kıyma, domates, biber, soğan, bulgur pilavı ve lavaş eşliğinde servis edilir.
+  * Izgara Köfte -- ₺395
+    180 gr kasap köfte, ızgara domates, köz biber, soğan, bulgur pilavı ve lavaş eşliğinde servis edilir.
+  * Kuzu Şiş -- ₺475
+    180 gr kuzu şiş, ızgara domates, köz biber, soğan, bulgur pilavı ve lavaş eşliğinde servis edilir.
+  * Ciğer Şiş -- ₺425
+    180 gr ciğer şiş, ızgara domates, köz biber, soğan, bulgur pilavı ve lavaş eşliğinde servis edilir.
+  * Tavuk Kanat -- ₺385
+    8 adet soslu kanat, ızgara domates, köz biber, soğan, bulgur pilavı ve lavaş eşliğinde servis edilir.
+  * Tavuk Şiş -- ₺360
+    180 gr tavuk şiş, ızgara domates, köz biber, soğan, bulgur pilavı ve lavaş eşliğinde servis edilir.
+  * Pideli köfte -- ₺600
+    Yoğurt ve tereyaglı soslu pide ile
+  * Adana İskender -- ₺650
+    Yoğurt ve tereyaglı soslu pide ile
+  * Izgara dana antrikot -- ₺850
+    Közlenmiş biber domates mantar, pilav , patates
+  * Izgara dana bonfile -- ₺900
+  * Közlenmiş biber domates mantar, pilav , patates
+
+
+DÜRÜMLER
+
+  * Adana Dürüm -- ₺310
+    Zırhta çekilmiş kıyma ile hazırlanır; kuru domates, soğan ve yeşillik eşliğinde lavaşa dürüm yapılarak sunulur.
+  * Urfa Dürüm -- ₺310
+    Zırhta çekilmiş kıyma ile hazırlanır; kuru domates, soğan ve yeşillik eşliğinde lavaşa dürüm yapılarak sunulur.
+  * Izgara Köfte Dürüm -- ₺290
+    Izgara köfte ile hazırlanır; soğan ve yeşillik eşliğinde lavaşa dürüm yapılarak sunulur.
+  * Ciğer Şiş Dürüm -- ₺300
+    Ciğer şiş ile hazırlanır; soğan ve yeşillik eşliğinde lavaşa dürüm yapılarak sunulur.
+  * Kuzu Şiş Dürüm -- ₺375
+    Kuzu şiş ile hazırlanır; soğan ve yeşillik eşliğinde lavaşa dürüm yapılarak sunulur.
+  * Tavuk Şiş Dürüm -- ₺260
+    Tavuk şiş ile hazırlanır; soğan ve yeşillik eşliğinde lavaşa dürüm yapılarak sunulur.
+
+BURGERLER
+
+  * Hamburger -- ₺340
+    100 Gr Burger Köftesi, Domates, Turşu Ve Yeşillik İle Hazırlanır; Yanında Patates Kızartması İle Servis Edilir.
+  * Tavukburger -- ₺315
+    120 Gr Panelenmiş Tavuk Göğsü, Domates, Turşu Ve Yeşillik İle Hazırlanır; Yanında Patates Kızartması İle Servis Edilir.
+  * Cheeseburger -- ₺350
+    100 Gr Burger Köftesi, Cheddar Peyniri, Domates, Turşu Ve Yeşillik İle Hazırlanır; Yanında Patates Kızartması İle Servis Edilir.
+  * Kingburger -- ₺430
+    150 Gr Burger Köftesi, Cheddar Peyniri, Izgara Sucuk, Karamelize Soğan, Domates, Turşu Ve Yeşillik İle Hazırlanır; Yanında Patates Kızartması İle Servis Edilir.
+  * Rodeoburger -- ₺430
+    100 Gr Burger Köftesi, Cheddar Peyniri, Izgara Mantar, Karamelize Soğan, Domates, Turşu Ve Yeşillik İle Hazırlanır; Yanında Patates Kızartması İle Servis Edilir.
+  * Myburger -- ₺495
+    2x100 Gr Burger Köftesi, Cheddar Peyniri, Dana Füme, Domates, Turşu Ve Yeşillik İle Hazırlanır; Yanında Patates Kızartması İle Servis Edilir.
+
+LAHMACUN
+
+  * Lahmacun -- ₺160
+    Kırmızı Lahana, Soğanlı Maydanoz Salatası, Limon İle Servis Edilir.
+  * Tel Peynirli Lahmacun -- ₺210
+    Kırmızı Lahana, Soğanlı Maydanoz Salatası, Limon İle Servis Edilir.
+  * Cevizli Lahmacun -- ₺210
+    Kırmızı Lahana, Soğanlı Maydanoz Salatası, Limon İle Servis Edilir.
+  * Special Lahmacun -- ₺245
+    Kırmızı Lahana, Soğanlı Maydanoz Salatası, Limon İle Servis Edilir.
+
+PİDELER
+
+  * Kaşarlı Pide -- ₺300
+  * Tel Peynirli Pide -- ₺325
+  * Sebzeli Pide -- ₺325
+  * Sucuklu Kaşarlı Pide -- ₺360
+  * Kavurmalı Kaşarlı Pide -- ₺395
+  * Kavurmalı Pide -- ₺395
+  * Kıymalı Kaşarlı Pide -- ₺360
+  * Kıymalı Pide -- ₺360
+  * Kuşbaşı Kaşarlı Pide -- ₺395
+  * Kuşbaşılı Pide -- ₺395
+  * Pastırmalı Kaşarlı Pide -- ₺495
+  * My Pide -- ₺440
+  * Ramazan Pide -- ₺75
+
+PİZZALAR
+
+  * Karışık Pizza -- ₺435
+    Mozzarella Peyniri, Sucuk, Sosis, Salam, Mantar, Zeytin, Biber Ve Mısır İle Hazırlanır; Domates Soslu Taban Üzerinde Taş Fırında Pişirilir.
+  * Sebzeli Pizza -- ₺365
+    Mozzarella Peyniri, Mantar, Zeytin, Biber, Domates Ve Mısır İle Hazırlanır; Domates Soslu Taban Üzerinde Taş Fırında Pişirilir.
+  * Margarita Pizza -- ₺355
+    Mozzarella Peyniri Ve Fesleğenli Domates Soslu Taban Üzerinde Hazırlanır; Taş Fırında Pişirilir.
+  * My Pizza -- ₺505
+    Mozzarella Peyniri, Dana Kavurma, Pastırma, Sosis, Sucuk, Salam, Mantar, Zeytin, Biber, Domates Ve Mısır İle Hazırlanır; Domates Soslu Taban Üzerinde Taş Fırında Pişirilir.
+
+TAVA YEMEKLERİ
+
+  * Barbekü Soslu Tavuk -- ₺345
+    150 Gr Tavuk Eti, Yeşil Ve Kırmızı Şerit Biber, Mantar Ve Krema İle Hazırlanır; Yanında Mevsim Salata Ve Pirinç Pilavı İle Servis Edilir.
+  * Köri Soslu Tavuk -- ₺345
+    150 Gr Tavuk Eti, Yeşil Ve Kırmızı Şerit Biber, Mantar Ve Krema İle Hazırlanır; Yanında Mevsim Salata Ve Pirinç Pilavı İle Servis Edilir.
+  * Mantar Soslu Tavuk -- ₺345
+    150 Gr Tavuk Eti, Yeşil Ve Kırmızı Şerit Biber, Mantar Ve Krema İle Hazırlanır; Yanında Mevsim Salata Ve Pirinç Pilavı İle Servis Edilir.
+  * Meksika Soslu Tavuk -- ₺345
+    150 Gr Tavuk Eti, Yeşil Ve Kırmızı Şerit Biber, Mantar Ve Krema İle Hazırlanır; Yanında Mevsim Salata Ve Pirinç Pilavı İle Servis Edilir.
+  * Soya Soslu Tavuk -- ₺345
+    150 Gr Tavuk Eti, Yeşil Ve Kırmızı Şerit Biber, Mantar Ve Krema İle Hazırlanır; Yanında Mevsim Salata Ve Pirinç Pilavı İle Servis Edilir.
+  * Güveçte Mantarlı Et Sote -- ₺580
+    Dana Eti, Mantar, Özel Sos Ve Sebzeler İle Güveçte Hazırlanır; Yanında Pirinç Pilavı İle Servis Edilir.
+  * Sac Tava -- ₺580
+    Dana Eti Ve Sebzeler Sac Tavada Hazırlanır; Yanında Pirinç Pilavı İle Servis Edilir.
+
+
+MAKARNALAR
+
+  * Peynirli Tortellini -- ₺345
+    Krema Ve Pesto Sosu İle Hazırlanır, Üzerine Parmesan Peyniri Eklenerek Servis Edilir.
+  * Spaghetti Napolitan -- ₺245
+    Özel Napolitan Sosu İle Hazırlanır, Üzerine Parmesan Peyniri Eklenerek Servis Edilir.
+  * Spaghetti Bolonez -- ₺345
+    Özel Bolonez Sosu İle Hazırlanır, Üzerine Parmesan Peyniri Eklenerek Servis Edilir.
+  * Penne Arrabiata -- ₺245
+  * Tavuklu Penne -- ₺270
+    Krema, Tavuk Eti Ve Pesto Sosu İle Hazırlanır, Üzerine Parmesan Peyniri Eklenerek Servis Edilir.
+  * Fettucine Alfredo -- ₺315
+    Krema, Tavuk Eti Ve Pesto Sosu İle Hazırlanır, Üzerine Parmesan Peyniri Eklenerek Servis Edilir.
+  * Mantı (Ev Yapımı) -- ₺345
+    Ev Yapımı Dana Etli Mantı, Özel Sosu Ve Yoğurt Eşliğinde Servis Edilir.
+
+SALATALAR
+
+  * Akdeniz Salata -- ₺245
+    Akdeniz Yeşillikleri, Domates, Salatalık, Zeytin Ve Beyaz Peynir İle Hazırlanır.
+  * Cevizli Tulum Peynirli Salata -- ₺270
+    Mevsim Yeşillikleri, Ceviz, Tulum Peyniri Ve Domates İle Hazırlanır.
+  * Çıtır Tavuk Salata -- ₺295
+    Mevsim Yeşillikleri, Panelenmiş Çıtır Tavuk Parçaları İle Hazırlanır.
+  * Çoban Salata -- ₺165
+    Domates, Salatalık, Soğan Ve Yeşillikler İle Hazırlanır.
+  * Sezar Salata -- ₺295
+    Marul, Izgara Tavuk, Kruton Ve Sezar Sosu İle Hazırlanır.
+  * Ton Balıklı Salata -- ₺330
+    Mevsim Yeşillikleri, Ton Balığı, Mor Soğan İle Hazırlanır.
+
+MEŞRUBATLAR
+
+  * Pepsi -- ₺100 image:
+  * Ayran -- ₺90
+  * Lipton Ice Tea -- ₺100
+    Şeftali, Limon
+  * 7up Gazoz -- ₺100
+  * Yedigün -- ₺100
+  * Su 0.33 -- ₺25
+  * Meyveli Soda -- ₺75
+  * Sade Soda -- ₺70
+  * Tropicana Meyve Suyu -- ₺100
+    Şeftali, vişne, karışık

@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<title>MyBistro Cafe&amp;Restaurant - Menü</title>
+<link rel="stylesheet" href="menu-brochure.css">
+</head>
+<body>
+
+<div class="no-print">
+  <strong>MyBistro Tri-Fold A3 Menü Broşürü</strong> — Yazdırmak için: Ctrl+P → A3 Yatay → Kenar boşlukları: Yok → PDF olarak kaydet
+</div>
+
+<!-- ==================== SIDE 1: OUTSIDE ==================== -->
+<div class="page" id="side1">
+  <div class="fold-mark fold-mark-1"></div>
+  <div class="fold-mark fold-mark-2"></div>
+
+  <!-- Panel 1 (Left outside = BACK when folded): Aperatifler, Salatalar, Makarnalar -->
+  <div class="panel s1-p1" id="s1p1">
+    <div class="inside-header"><img src="logo.jpg" class="inside-logo" alt="MyBistro"></div>
+    <div id="s1p1-content"></div>
+    <div class="panel-watermark">MyBistro</div>
+  </div>
+
+  <!-- Panel 2 (Center outside): Pizzalar, Tava, Meşrubatlar -->
+  <div class="panel s1-p2" id="s1p2">
+    <div class="inside-header"><img src="logo.jpg" class="inside-logo" alt="MyBistro"></div>
+    <div id="s1p2-content"></div>
+    <div class="panel-watermark">MyBistro</div>
+  </div>
+
+  <!-- Panel 3 (Right outside = FRONT COVER) -->
+  <div class="panel s1-p3">
+    <div class="cover-ornament top-left"></div>
+    <div class="cover-ornament bottom-right"></div>
+    <div class="cover-ornament mid"></div>
+    <img src="logo.jpg" class="cover-logo" alt="MyBistro Cafe&Restaurant">
+    <div class="cover-tagline">Lezzetin Adresi</div>
+    <div class="cover-divider"></div>
+    <div class="cover-note">🔥 Ürünlerimiz meşe kömürü ateşinde hazırlanmaktadır.</div>
+    <div class="cover-divider"></div>
+    <div class="cover-contact">
+      <div class="phone">0 (212) 397 53 35</div>
+      <div class="phone">0 (212) 397 53 34</div>
+    </div>
+  </div>
+</div>
+
+<!-- ==================== SIDE 2: INSIDE ==================== -->
+<div class="page" id="side2">
+  <div class="fold-mark fold-mark-1"></div>
+  <div class="fold-mark fold-mark-2"></div>
+
+  <!-- Panel 1 (Left inside): Kahvaltı, Tost -->
+  <div class="panel s2-p1" id="s2p1">
+    <div class="inside-header"><img src="logo.jpg" class="inside-logo" alt="MyBistro"></div>
+    <div id="s2p1-content"></div>
+    <div class="panel-watermark">MyBistro</div>
+  </div>
+
+  <!-- Panel 2 (Center inside): Kebap & Izgara, Dürümler -->
+  <div class="panel s2-p2" id="s2p2">
+    <div class="inside-header"><img src="logo.jpg" class="inside-logo" alt="MyBistro"></div>
+    <div id="s2p2-content"></div>
+    <div class="panel-watermark">MyBistro</div>
+  </div>
+
+  <!-- Panel 3 (Right inside): Burgerler, Lahmacun, Pideler -->
+  <div class="panel s2-p3" id="s2p3">
+    <div class="inside-header"><img src="logo.jpg" class="inside-logo" alt="MyBistro"></div>
+    <div id="s2p3-content"></div>
+    <div class="panel-watermark">MyBistro</div>
+  </div>
+</div>
+
+<script src="menu-data.js"></script>
+<script>
+const IMG_MAP = {
+  "KAHVALTI": "Kahvaltı/serpme-kahvaltı.jpg",
+  "KEBAP & IZGARA": "kebap&ızgara/17659628426942745a026f6.jpg",
+  "BURGERLER": "Burgerler/1686738258648995523d0cf.jpeg",
+  "PİZZALAR": "Pizzalar/176733255169575ac7df211.jpg",
+  "LAHMACUN": "Lahmacun/17642090276927b183459746927b1840798c.jpg",
+  "PİDELER": "Pideler/17642091546927b202f3a0d6927b2033efd9.jpg",
+  "TAVA YEMEKLERİ": "Tava Yemekleri/17670971206953c320869d4.jpg",
+  "DÜRÜMLER": "Dürümler/17659630366942751cdca62.jpg",
+  "MAKARNALAR": "Makarnalar/17670972326953c39067514.jpg",
+  "SALATALAR": "Salatalar/1687009185648db7a1397da.jpeg"
+};
+
+const COMPACT_CATS = ["PİDELER"];
+
+function renderItem(item) {
+  let html = '<div class="menu-item"><div class="item-row">';
+  html += `<span class="item-name">${item.n}</span>`;
+  html += '<span class="item-dots"></span>';
+  html += `<span class="item-price">${item.p}</span>`;
+  html += '</div>';
+  if (item.d) html += `<div class="item-desc">${item.d}</div>`;
+  html += '</div>';
+  return html;
+}
+
+function renderCategory(cat, showImage) {
+  const isCompact = COMPACT_CATS.includes(cat.cat);
+  let html = `<div class="category${isCompact ? ' compact' : ''}">`;
+  html += '<div class="cat-header">';
+  html += `<span class="cat-icon">${cat.icon}</span>`;
+  html += `<span class="cat-title">${cat.cat}</span>`;
+  html += '<span class="cat-line"></span>';
+  html += '</div>';
+  if (showImage && IMG_MAP[cat.cat]) {
+    html += `<div class="cat-img-wrap cat-img-small"><img src="${IMG_MAP[cat.cat]}" alt="${cat.cat}"></div>`;
+  }
+  cat.items.forEach(item => { html += renderItem(item); });
+  html += '</div>';
+  return html;
+}
+
+// Determine which categories show images (pick a few key ones per panel)
+const IMG_SHOW = ["KAHVALTI", "KEBAP & IZGARA", "BURGERLER", "PİZZALAR"];
+
+function renderPanel(side, panel) {
+  const cats = MENU.filter(c => c.side === side && c.panel === panel);
+  let html = '';
+  cats.forEach((cat, i) => {
+    if (i > 0) html += '<div class="section-divider"></div>';
+    html += renderCategory(cat, IMG_SHOW.includes(cat.cat));
+  });
+  return html;
+}
+
+// Render all panels
+document.getElementById('s1p1-content').innerHTML = renderPanel(1, 1);
+document.getElementById('s1p2-content').innerHTML = renderPanel(1, 2);
+document.getElementById('s2p1-content').innerHTML = renderPanel(2, 1);
+document.getElementById('s2p2-content').innerHTML = renderPanel(2, 2);
+document.getElementById('s2p3-content').innerHTML = renderPanel(2, 3);
+</script>
+
+</body>
+</html>
